@@ -14,7 +14,7 @@
   ##
   
 <div
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.google.com/search?q=como+fazer+com+que+uma+pessoa+clique+em+um+bot%C3%A3o+e+ela+copie+automaticamente+algo+html&oq=como+fazer+com+que+uma+pessoa+clique+em+um+bot%C3%A3o+e+ela+copie+automaticamente+algo+html&aqs=chrome..69i57.55346j0j9&sourceid=chrome&ie=UTF-8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
        
 </div>
 
