@@ -8,6 +8,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="joao-java" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1639520931~hmac=1d0e392c5dc3572c03e029c23700eeb0">
+  <img align="center" alt="joao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
