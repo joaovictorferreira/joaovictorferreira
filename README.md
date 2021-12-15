@@ -1,5 +1,5 @@
 ## Hello there, I'm joão and these are some of my info
-
+<br>
 <div align="center">
   <a href="https://github.com/joaovictorferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorferreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
