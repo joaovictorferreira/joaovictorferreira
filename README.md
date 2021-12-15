@@ -1,4 +1,4 @@
-## Hi I'm joão and these are some of my info
+## Hi, I'm joão and these are some of my info
 <br>
 <div align="center">
   <a href="https://github.com/joaovictorferreira">
@@ -9,7 +9,7 @@
  
 </div>
   
-  ### Languages that i study
+  ### Languages that I study
   
   <div style="display: inline_block">
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
