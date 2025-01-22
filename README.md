@@ -1,5 +1,6 @@
-## Hi, I'm João Victor and these are some of my info
+## Olá, sou João Victor Ferreira, desenvolvedor web, comprometido em colaborar em projetos desafiadores e sempre em busca de novos conhecimentos.
 <br>
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  
 </div>
   
@@ -9,10 +10,6 @@
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="joao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
-  
-  ##
-
-  ### You can contact me on these bellow
   
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
