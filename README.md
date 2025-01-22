@@ -5,7 +5,7 @@ Ferramentas com as quais tive experiência durante meu tempo como desenvolvedor.
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="joao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="joao-ts" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="joao-ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   
 </div>
   
