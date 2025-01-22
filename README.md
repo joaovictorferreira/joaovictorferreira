@@ -1,6 +1,6 @@
 ## Olá, sou João Victor Ferreira, desenvolvedor web, comprometido em colaborar em projetos desafiadores e sempre em busca de novos conhecimentos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ferramentas com as quais tive experiência durante meu tempo como desenvolvedor.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
