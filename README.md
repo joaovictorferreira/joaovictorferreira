@@ -1,4 +1,4 @@
-## Olá, sou João Victor Ferreira, desenvolvedor web, comprometido em colaborar em projetos desafiadores e sempre em busca de novos conhecimentos.
+## Olá, sou João Victor Ferreira, desenvolvedor de sofware, comprometido em colaborar em projetos desafiadores e sempre em busca de novos conhecimentos.
 
 Ferramentas com as quais tive experiência durante meu tempo como desenvolvedor.
 
