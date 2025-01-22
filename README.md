@@ -1,11 +1,8 @@
 ## Olá, sou João Victor Ferreira, desenvolvedor web, comprometido em colaborar em projetos desafiadores e sempre em busca de novos conhecimentos.
 <br>
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  
 </div>
-  
-  ### Languages that I use
-  
   <div style="display: inline_block">
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="joao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
